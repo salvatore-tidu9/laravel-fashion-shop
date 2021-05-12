@@ -9,7 +9,7 @@
         <div class="row">
             <div class="col-xs-12">
                 <div class="homepage_banner text-center">
-                    <img src="{{asset('img/wp3376825.jpg')}}" alt="La Molisana_home">
+                    <img src="{{asset('img/wp3376825.jpg')}}" alt="Manofmany_home">
                 </div>
             </div>
         </div>

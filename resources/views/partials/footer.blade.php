@@ -5,7 +5,7 @@
                 <div class="top_footer">
                     <div class="col-xs-12 col-sm-12 col-md-3">
                         <div id="logo" class="text-center" >
-                            <img src="{{asset('img/logo-footer-w.png')}}" alt="La Molisana_logo">
+                            <img src="{{asset('img/logo-footer-w.png')}}" alt="Manofmany_logo">
                         </div>
                     </div>
                     <div class="col-xs-12 col-sm-12 col-md-3 text-center">
