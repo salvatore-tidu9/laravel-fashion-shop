@@ -14,7 +14,10 @@ class MainController extends Controller
 
     public function articles() {
         $articles = Suit::all();
-        @dd($articles);
-        return view('articles');
+        // @dd($articles);
+        $data = [
+            'articles' => $articles
+            ];
+        return view('articles', $data);
     }
 }
