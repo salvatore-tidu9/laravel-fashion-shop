@@ -12,6 +12,7 @@
                         <ul class="footer_list">
                             <li><a href="#">About Us</a></li>
                             <li><a href="#">Advertising</a></li>
+                            <li><a href="#">News</a></li>
                         </ul>
                     </div>
                     <div class="col-xs-12 col-sm-12 col-md-3 text-center">
